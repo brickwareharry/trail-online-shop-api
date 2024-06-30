@@ -1,3 +1,6 @@
+#### TODO LIST:
+1. Check: Ubuntu does not have correct access right. Fix the access right.
+
 # Online Shop API
 
 Welcome to the Online Shop API documentation! This guide will help you get started with building your own online shop using C# .NET 8.
