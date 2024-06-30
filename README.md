@@ -70,7 +70,6 @@ Congratulations! You have successfully set up the Online Shop API and are ready 
 
 Happy coding!
 
-
 ## Reference notes
 
 ### GitHub Personal Access Tokens
